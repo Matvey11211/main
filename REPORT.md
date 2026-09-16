@@ -30,7 +30,7 @@
 
 ## Ссылка на коммит с финальной версией кода
 
-[Исходный код проекта](https://github.com/Matvey11211/main)
+[Исходный код проекта](https://github.com/Matvey11211/main/commit/566d27e)
 
 ---
 
