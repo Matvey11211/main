@@ -1,8 +1,0 @@
-*.retry
-*.pyc
-__pycache__/
-.vault_pass
-*.vault
-*.log
-
-.vault_pass_*
