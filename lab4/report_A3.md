@@ -1,5 +1,9 @@
 # Отчёт по заданию A3: Шифрование отдельных строк и переменных
 
+**Выполнил:** Горячкин Матвей  
+**GitHub:** [@Matvey11211](https://github.com/Matvey11211)  
+**Дата:** 26 сентября 2026
+
 ### 1. В чём разница между `ansible-vault encrypt` (файл) и `ansible-vault encrypt_string` (строка)?
 
 | Характеристика | `encrypt` (файл) | `encrypt_string` (строка) |
