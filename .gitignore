@@ -1,7 +1,18 @@
-*.retry
-*.pyc
-__pycache__/
-.vault_pass
-*.vault
-*.log
+# Виртуальное окружение
+.venv/
+venv/
 
+# Архивы коллекций
+*.tar.gz
+
+# Vault пароли
+.vault_pass_*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
