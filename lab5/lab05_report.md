@@ -68,11 +68,10 @@ State-файл содержит секреты в открытом виде. П�
 
 ## Скриншоты
 
-### Вывод terraform plan
-![terraform plan](screenshots/terraform_plan.png)
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/c39fdbd6-da0e-46f0-8e51-696db6fc24ef" />
 
-### Успешный запуск ansible-playbook
-![ansible-playbook](screenshots/ansible_playbook.png)
 
-### Результат curl
-![curl result](screenshots/curl_result.png)
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/7e0f849f-589d-4fad-a5e8-b91f470b8a19" />
+
+
