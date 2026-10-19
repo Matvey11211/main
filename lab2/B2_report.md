@@ -1,7 +1,6 @@
 Отчёт B2: block/rescue/always
 
-Выполнил: Кучин Арсений
-Дата: 28 сентября 2026
+
 Вопросы и ответы
 1. Объясните разницу между block/rescue/always и try/catch/finally в Python.
 Это прямые аналоги:
