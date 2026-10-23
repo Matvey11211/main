@@ -1,9 +1,6 @@
 # Отчет по лабораторной работе №7
 ## Углубленный Kubernetes: ConfigMaps, Secrets, Persistent Volumes, Ingress и Traefik Dashboard
 
-**Выполнил:** Matvey11211  
-**Дата:** 2026-10-23
-
 ---
 
 ## Цель работы
