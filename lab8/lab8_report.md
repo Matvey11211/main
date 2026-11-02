@@ -73,6 +73,8 @@ prometheus-xxxxx-xxxxx        1/1     Running   0          5m
 
 Примечание: Метрика kube_pod_container_status_restarts_total требует kube-state-metrics, который не был установлен из-за ограничений ресурсов. Использована альтернативная метрика Prometheus.
 Скриншот дашборда:
+<img width="1188" height="662" alt="image" src="https://github.com/user-attachments/assets/032cf688-23cc-42c8-9604-6e4512032117" />
+
 Ответы на контрольные вопросы
 Вопрос 1: Helm Rollback — что происходит в кластере?
 Ответ:
