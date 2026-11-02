@@ -1,8 +1,7 @@
 # Отчет по лабораторной работе №8
 ## Helm: упаковка приложений и мониторинг в Kubernetes
 
-**Выполнил:** Matvey11211  
-**Дата:** 2026-10-30
+
 
 ---
 
@@ -38,6 +37,7 @@ REVISION  UPDATED                   STATUS      CHART           APP VERSION
 2         2026-10-30                superseded  myapp-chart-0.1.0  1.16.0
 3         2026-10-30                superseded  myapp-chart-0.1.0  1.16.0
 4         2026-10-30                deployed    myapp-chart-0.1.0  1.16.0
+```
 Часть B: Окружения и пакетирование
 Что сделано:
 
