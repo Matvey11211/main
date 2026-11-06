@@ -1,8 +1,7 @@
 # Отчет по лабораторной работе №8
 ## Helm: упаковка приложений и мониторинг в Kubernetes
 
-**Выполнил:** Matvey11211  
-**Дата:** 2026-10-30
+
 
 ---
 
@@ -38,6 +37,7 @@ REVISION  UPDATED                   STATUS      CHART           APP VERSION
 2         2026-10-30                superseded  myapp-chart-0.1.0  1.16.0
 3         2026-10-30                superseded  myapp-chart-0.1.0  1.16.0
 4         2026-10-30                deployed    myapp-chart-0.1.0  1.16.0
+```
 Часть B: Окружения и пакетирование
 Что сделано:
 
@@ -72,7 +72,11 @@ prometheus-xxxxx-xxxxx        1/1     Running   0          5m
         Pod Restarts (метрика prometheus_tsdb_head_series)
 
 Примечание: Метрика kube_pod_container_status_restarts_total требует kube-state-metrics, который не был установлен из-за ограничений ресурсов. Использована альтернативная метрика Prometheus.
+
+
 Скриншот дашборда:
+<img width="1188" height="662" alt="image" src="https://github.com/user-attachments/assets/032cf688-23cc-42c8-9604-6e4512032117" />
+
 Ответы на контрольные вопросы
 Вопрос 1: Helm Rollback — что происходит в кластере?
 Ответ:
